@@ -17,7 +17,7 @@ public class Client extends Activity {
 
 	private Socket socket;
 
-	private static final int SERVERPORT = 6666;
+	private static final int SERVERPORT = 66666;
 	private static final String SERVER_IP = "192.168.191.1";
 
 	@Override
